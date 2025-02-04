@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <urlset
+          xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+                http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+     <url>
+                 <loc>news.html</loc>
+                 <lastmod>2025-02-04T03:54:45+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>index.html</loc>
+                 <lastmod>2025-02-04T03:54:45+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>services.html</loc>
+                 <lastmod>2025-02-04T03:54:45+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>artificial-grass.html</loc>
+                 <lastmod>2025-02-04T03:54:45+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>installation.html</loc>
+                 <lastmod>2025-02-04T03:54:45+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>pet-turf.html</loc>
+                 <lastmod>2025-02-04T03:54:45+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>landscaping.html</loc>
+                 <lastmod>2025-02-04T03:54:45+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>retaining-walls.html</loc>
+                 <lastmod>2025-02-04T03:54:45+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>paver-installation.html</loc>
+                 <lastmod>2025-02-04T03:54:45+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>patio-covers.html</loc>
+                 <lastmod>2025-02-04T03:54:45+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>concreting-driveway-services.html</loc>
+                 <lastmod>2025-02-04T03:54:45+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>putting-greens.html</loc>
+                 <lastmod>2025-02-04T03:54:45+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>outdoor-living.html</loc>
+                 <lastmod>2025-02-04T03:54:45+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>privacy-policy.html</loc>
+                 <lastmod>2025-02-04T03:54:45+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>sitemap.html</loc>
+                 <lastmod>2025-02-04T03:54:45+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>sitemap.xml</loc>
+                 <lastmod>2025-02-04T03:54:45+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>about-us.html</loc>
+                 <lastmod>2025-02-04T03:54:45+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>feed.xml</loc>
+                 <lastmod>2025-02-04T03:54:45+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url></urlset>
